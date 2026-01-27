@@ -1,1 +1,1 @@
-# Putorch基本用法
+# Pytorch基本用法
