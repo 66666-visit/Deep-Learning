@@ -93,6 +93,7 @@
     * **K-Fold (K折交叉验证)**：学会用 `sklearn.model_selection.StratifiedKFold` 把数据切 5 份，跑 5 个模型，最后取平均。
     * **Scheduler (学习率调度)**：学会用 `CosineAnnealingLR` 让学习率像波浪一样下降，而不是死板的一条直线。
     * *这是原仓库缺失的部分，务必重点攻克。*
+      **update** 2026.2.9更新了**K-Fold/CosineAnnelingLR**模版代码
 
 ### Day 12: 目标检测基础
 * **对应文件**：
