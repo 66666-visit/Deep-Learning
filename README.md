@@ -122,7 +122,6 @@
 * **对应文件**：
     * `249_循环神经网络RNN.ipynb`
     * `247_文本预处理.ipynb`
-* **重点**：理解时间步 (Time Step) 和 Hidden State。
 
 ### Day 15: LSTM & GRU（重点攻克）
 * **对应文件**：
