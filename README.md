@@ -142,18 +142,11 @@
     * `261_seq2seq注意力.ipynb`
 * **重点**：理解 Attention 是如何让模型“聚焦”到输入的某个部分的。
 
-### Day 18: Transformer（现在的王）
+### Day 18-19: Transformer（现在的王）
 * **对应文件**：
     * `263_Transformer.ipynb`
 * **核心任务**：
     * 虽然主攻 LSTM，但必须看懂 Transformer 的 **Self-Attention** 公式。现在的时序比赛（如时间序列预测）经常用 Transformer 变体。
-
-### Day 19: 竞赛总结与多模态
-* **对应文件**：
-    * `266_目标检测竞赛总结.ipynb`
-* **任务**：复盘前面的模型，了解一下 CNN + RNN 的组合（例如视频分类）。
-
----
 
 ## 🛠️ 第四阶段：查漏补缺与终极复盘（第 20-21 天）
 
