@@ -138,7 +138,7 @@
 
 ### Day 17: 注意力机制（Attention）
 * **对应文件**：
-     **手写LSTM + CBAM**
+     * `259_注意力机制(cbam).ipynb`
 * **重点**：理解 Attention 是如何让模型“聚焦”到输入的某个部分的。
 
 ### Day 18-19: Transformer（现在的王）
